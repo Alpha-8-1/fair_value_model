@@ -1,0 +1,6 @@
+yfinance
+fredapi
+pandas
+matplotlib
+numpy
+configparser
